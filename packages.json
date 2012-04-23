@@ -21,11 +21,11 @@
             "description": "DCPU-16 syntax highlighting for Sublime Text 2",
             "author": "Adam Lilienfeldt",
             "homepage": "https://github.com/theadamlt/Sublime-DCPU-16",
-            "last_modified": "2012-04-22 14:45:00",
+            "last_modified": "2012-04-23 15:35:00",
             "platforms": {
                 "*": [
                     {
-                        "version": "1.3",
+                        "version": "1.4",
                         "url": "https://nodeload.github.com/theadamlt/Sublime-DCPU-16/zipball/master"
                     }
                 ]
