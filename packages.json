@@ -30,6 +30,21 @@
                     }
                 ]
             }   
+        },
+        {
+            "name": "Arduino",
+            "description": "Arduino snippets, completions and highlighting",
+            "author": "Adam Lilienfeldt",
+            "homepage": "https://github.com/theadamlt/Sublime-Arduino",
+            "last_modified": "2012-05-2 14:30:00",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0",
+                        "url": "https://nodeload.github.com/theadamlt/Sublime-DCPU-16/zipball/master"
+                    }
+                ]
+            }   
         }
     ]
 }
