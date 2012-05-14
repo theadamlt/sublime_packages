@@ -56,13 +56,13 @@
                 "linux": [
                     {
                         "version": "1.0",
-                        "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
+                        "url": "https://nodeload.github.com/theadamlt/Sublime-gitignore/zipball/master"
                     }
                 ],
                 "osx": [
                     {
                         "version": "1.0",
-                        "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
+                        "url": "https://nodeload.github.com/theadamlt/Sublime-gitignore/zipball/master"
                     }
                 ]
             }
