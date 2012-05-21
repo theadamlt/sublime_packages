@@ -51,17 +51,17 @@
             "description": "Gitignore plugin",
             "author": "Adam Lilienfeldt",
             "homepage": "https://github.com/theadamlt/Sublime-Gitignore",
-            "last_modified": "2012-05-12 20:00:00",
+            "last_modified": "2012-05-21 12:00:00",
             "platforms": {
                 "linux": [
                     {
-                        "version": "1.0",
+                        "version": "1.1",
                         "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
                     }
                 ],
                 "osx": [
                     {
-                        "version": "1.0",
+                        "version": "1.1",
                         "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
                     }
                 ]
