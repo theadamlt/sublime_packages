@@ -55,23 +55,19 @@
             "platforms": {
                 "linux": [
                     {
-                        "version": "1.1",
-                        "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
                         "version": "1.0",
                         "url": "https://nodeload.github.com/theadamlt/Sublime-gitignore/zipball/master"
                     }
                 ],
                 "osx": [
                     {
-                        "version": "1.1",
-                        "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
                         "version": "1.0",
                         "url": "https://nodeload.github.com/theadamlt/Sublime-gitignore/zipball/master"
                     }
                 ]
             }
         },
-         {
+        {
             "name": "ScriptSrc",
             "description": "Always have the latest script-tags just a command away",
             "author": "Adam Lilienfeldt",
