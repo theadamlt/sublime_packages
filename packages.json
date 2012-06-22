@@ -29,7 +29,7 @@
                         "url": "https://nodeload.github.com/theadamlt/Sublime-DCPU-16/zipball/master"
                     }
                 ]
-            }   
+            }
         },
         {
             "name": "Arduino",
@@ -44,7 +44,7 @@
                         "url": "https://nodeload.github.com/theadamlt/Sublime-Arduino/zipball/master"
                     }
                 ]
-            }   
+            }
         },
         {
             "name": "Gitignore",
@@ -63,6 +63,21 @@
                     {
                         "version": "1.1",
                         "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
+                    }
+                ]
+            }
+        },
+         {
+            "name": "ScriptSrc",
+            "description": "Always have the latest script-tags just a command away",
+            "author": "Adam Lilienfeldt",
+            "homepage": "https://github.com/theadamlt/Sublime-ScriptSrc",
+            "last_modified": "2012-06-22 14:00:00",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0",
+                        "url": "https://nodeload.github.com/theadamlt/Sublime-ScriptSrc/zipball/master"
                     }
                 ]
             }
