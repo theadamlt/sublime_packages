@@ -48,25 +48,21 @@
         },
         {
             "name": "Gitignore",
-            "description": "Gitignore plugin",
+            "description": "An easy way to fetch gitignore boilerplates from github",
             "author": "Adam Lilienfeldt",
             "homepage": "https://github.com/theadamlt/Sublime-Gitignore",
-            "last_modified": "2012-05-21 12:00:00",
+            "last_modified": "2012-06-24 17:00:00",
             "platforms": {
                 "linux": [
                     {
-                        "version": "1.1",
+                        "version": "2.0",
                         "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
-                        "version": "1.0",
-                        "url": "https://nodeload.github.com/theadamlt/Sublime-gitignore/zipball/master"
                     }
                 ],
                 "osx": [
                     {
-                        "version": "1.1",
+                        "version": "2.0",
                         "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
-                        "version": "1.0",
-                        "url": "https://nodeload.github.com/theadamlt/Sublime-gitignore/zipball/master"
                     }
                 ]
             }
