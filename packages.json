@@ -53,15 +53,9 @@
             "homepage": "https://github.com/theadamlt/Sublime-Gitignore",
             "last_modified": "2012-06-24 17:00:00",
             "platforms": {
-                "linux": [
+                "*": [
                     {
-                        "version": "2.0",
-                        "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
-                    }
-                ],
-                "osx": [
-                    {
-                        "version": "2.0",
+                        "version": "3.0",
                         "url": "https://github.com/theadamlt/Sublime-Gitignore/zipball/master"
                     }
                 ]
