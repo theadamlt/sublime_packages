@@ -66,11 +66,11 @@
             "description": "Always have the latest script-tags just a command away",
             "author": "Adam Lilienfeldt",
             "homepage": "https://github.com/theadamlt/Sublime-ScriptSrc",
-            "last_modified": "2012-06-22 14:00:00",
+            "last_modified": "2012-06-27 14:50:00",
             "platforms": {
                 "*": [
                     {
-                        "version": "1.0",
+                        "version": "1.1",
                         "url": "https://nodeload.github.com/theadamlt/Sublime-ScriptSrc/zipball/master"
                     }
                 ]
